@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 cd $O3/core
 . vars/vars-linux
 . vars/setpath
